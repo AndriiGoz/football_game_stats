@@ -234,11 +234,11 @@ st.write(', '.join(str(e) for e in player_names_2))
 st.subheader('About this app')
 st.markdown("""
 This app displays players statistics plotted on the pitch. Data is taken 
-from StatsBomb Open Data at https://github.com/statsbomb/open-data.
+from StatsBomb Open Data at https://github.com/statsbomb/open-data
 
 Link to event:  https://en.wikipedia.org/wiki/UEFA_Euro_2020_knockout_phase
 
-Source code on GitHub: ().
+Source code on GitHub: https://github.com/AndriiGoz/football_game_stats
 
 Author: Andrii Gozhulovskyi
 """)
