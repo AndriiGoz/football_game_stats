@@ -96,7 +96,7 @@ The knockout phase of UEFA Euro 2020 took place between 26 June 2021 and 11 July
 15 matches between 16 teams successfully qualified from the group stage. In the final game in London Italy 
 won England on penalty kicks and took the trophy second time in their history.
 """)
-st.write("""* Use dropdown-menus at right to select a game, team, player and activity. 
+st.write("""* Use dropdown-menus at left side to select a game, team, player and activity. 
 Statistics plot will appear on the pitch below.""")
 st.write('###', menu_activity, 'map')
 st.write('###### Game:', menu_game)
